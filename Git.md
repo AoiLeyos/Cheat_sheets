@@ -1,12 +1,12 @@
 # Git
 
-**git branch -m "Old_Name" "New Name"** : pour renommer une branche
-**git branch "Name"** : créée une branche
-**git clone** : pour récupéré le projet et de lier le remote
-**git remote** : permet de créer, afficher et de supprimer des connexions avec d'autres dépôts.
-**git switch -c "name"** : bascule et créé la chaine
-**git restore** : restaure le fichier jusqu'au dernier commit
-**git diff** : dernier changement depuis le commit
+- **git branch -m "Old_Name" "New Name"** : pour renommer une branche
+- **git branch "Name"** : créée une branche
+- **git clone** : pour récupéré le projet et de lier le remote
+- **git remote** : permet de créer, afficher et de supprimer des connexions avec d'autres dépôts.
+- **git switch -c "name"** : bascule et créé la chaine
+- **git restore** : restaure le fichier jusqu'au dernier commit
+- **git diff** : dernier changement depuis le commit
 
 
 Ordre : 
