@@ -1,28 +1,28 @@
 # Terminal
 
-- **ls**: *lister le contenu du dossier courant*
-- **-F**: *le type de Format*
-- **..**: *le dossier parent*
-- **.** : *le dossier courant*
-- **~** : *le dossier home*
-- **cd -**: *aller dans le dernier dossier*
-- **/** : *le séparateur de dossier*
-- **cd**: *changer de dossier*
-- **pwd**: *afficher le chemin du doosier courant*
-- **clear**: *nettoyer le terminal*
-- **ctrl-c** : *tuer le processus en cours*
-- **mkdir "Nom du dossier"** : *créer un dossier*
-- **rmdir "Nom du dossier"** : *supprime un dossier vide*
-- **rm -r** : *supprime un dossier de façon récursive (le dossier et tout ses enfants)*
-- **cat** : *afficher et concaterner le contenu de fichier(s)*
-- **exit** : *quitter le shell ou la session en cours*
-- **man** : *afficher le manuel**
-- **mv** : *déplacé un fichier dans un dossier*
-- **nano [nom_du_fichier]** : *ouvre l'éditeur de texte nano*
-- **touch [Nom_du_fichier]** : *crée un nouveau fichier vide.*
-- **head [Nom_du_fichier],tail [Nom_du_fichier]** : *affichent les premièrs/ dernières lignes d'un fichier*
-- **grep 'texte' [nom_du_fichier]** : *recherche une chaine de caractères dans un fichier =.*
-- **alias [nom_de_l'alias]** : *crée un alias temporaire pour une commande.*
-- **unalias [nom_de_l'alias]='commande'** : *Supprime un alias temporaire*
-- **~/.bashrc ou ~/.zshrc** : *fichier de configuration pour Bash ou Zsh où ajouter des alias permanents.*
-- **code** : *ouvre visual studio code ( peut etre accompagné du chemin pour ouvrir un fichier ou un dossier précis )*
+- La commande : **ls**:  *sert à lister le contenu du dossier courant*
+- La commande : **-F**: *sert à montre le type de Format*
+- La commande : **..**: *sert à retourner au dossier parent*
+- La commande : **.** : *sert à ouvrir le dossier courant (exemple dans visual code: "Code .")*
+- La commande : **~** : *sert à allez dans dossier home*
+- La commande : **cd -**: *sert a retourner dans le dernier dossier*
+- La commande : **/** : *sert à séparer les different dossier*
+- La commande : **cd**: *sert à changer de dossier*
+- La commande : **pwd**: *sert à afficher le chemin du dossier courant*
+- La commande : **clear**: *sert à nettoyer le terminal*
+- La commande : **ctrl-c** : *sert à tuer le processus en cours*
+- La commande : **mkdir "Nom du dossier"** : *sert à créer un dossier*
+- La commande : **rmdir "Nom du dossier"** : *sert à supprimé un dossier vide*
+- La commande : **rm -r** : *sert à supprimé un dossier de façon récursive (le dossier et tout ses enfants)*
+- La commande : **cat** : *sert à afficher et concaterner le contenu de fichier(s)*
+- La commande : **exit** : *sert à quitter le shell ou la session en cours*
+- La commande : **man** : *sert à  afficher le manuel**
+- La commande : **mv** : *sert à  déplacer un fichier dans un dossier*
+- La commande : **nano [nom_du_fichier]** : *ouvre l'éditeur de texte nano*
+- La commande : **touch [Nom_du_fichier]** : *crée un nouveau fichier vide.*
+- La commande : **head [Nom_du_fichier],tail [Nom_du_fichier]** : *affichent les premièrs/ dernières lignes d'un fichier*
+- La commande : **grep 'texte' [nom_du_fichier]** : *sert à rechercher une chaine de caractères dans un fichier.*
+- La commande : **alias [nom_de_l'alias]** : *sert à créé un alias temporaire pour une commande.*
+- La commande : **unalias [nom_de_l'alias]='commande'** : *sert à supprimer un alias temporaire*
+- La commande : **~/.bashrc ou ~/.zshrc** : *sert a ouvrir le fichier de configuration pour Bash ou Zsh où ajouter des alias permanents.*
+- La commande : **code** : *ouvre visual studio code ( peut etre accompagné du chemin pour ouvrir un fichier ou un dossier précis )*
