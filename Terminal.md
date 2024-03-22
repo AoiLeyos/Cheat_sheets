@@ -21,7 +21,7 @@
 - **nano [nom_du_fichier]** : *ouvre l'éditeur de texte nano*
 - **touch [Nom_du_fichier]** : *crée un nouveau fichier vide.*
 - **head [Nom_du_fichier],tail [Nom_du_fichier]** : *affichent les premièrs/ dernières lignes d'un fichier*
-- **grep 'texte [nom_du_fichier]** : *recherche une chaine de caractères dans un fichier =.*
+- **grep 'texte' [nom_du_fichier]** : *recherche une chaine de caractères dans un fichier =.*
 - **alias [nom_de_l'alias]** : *crée un alias temporaire pour une commande.*
 - **unalias [nom_de_l'alias]='commande'** : *Supprime un alias temporaire*
 - **~/.bashrc ou ~/.zshrc** : *fichier de configuration pour Bash ou Zsh où ajouter des alias permanents.*
