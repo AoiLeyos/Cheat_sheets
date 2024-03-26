@@ -21,4 +21,4 @@
 - 1 **git pull** : récupére les fichiers
 
 4. Vérifications de la branch : 
-- 1 **git branch**  :
+- 1 **git branch**  : regarde le nombre de branch
