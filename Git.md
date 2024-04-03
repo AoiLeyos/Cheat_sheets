@@ -24,7 +24,9 @@
 - 1 **git branch**  : regarde le nombre de branch
 
 5. Option.
-    - git log : affiche les commits et leur 'hash'
+    - git log : affiche les commits et leur 'hash', et permet de voir la liste des commits.
     - git revert [hash] : pour créé un commit qui va annuler ce commit et permet d'éditer le message du commit.
 
     - git reset : annule le dernier commit.     
+    - git show : permet d'afficher des informations détaillées sur un commit spécifique dans un dépôt git.
+    
