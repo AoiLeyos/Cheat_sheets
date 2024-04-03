@@ -26,3 +26,5 @@
 5. Option.
     - git log : affiche les commits et leur 'hash'
     - git revert [hash] : pour créé un commit qui va annuler ce commit et permet d'éditer le message du commit.
+
+    - git reset : annule le dernier commit.     
