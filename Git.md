@@ -22,3 +22,7 @@
 
 4. Vérifications de la branch : 
 - 1 **git branch**  : regarde le nombre de branch
+
+5. Option.
+    - git log : affiche les commits et leur 'hash'
+    - git revert [hash] : pour créé un commit qui va annuler ce commit et permet d'éditer le message du commit.
