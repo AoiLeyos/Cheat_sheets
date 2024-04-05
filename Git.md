@@ -29,4 +29,5 @@
 
     - git reset : annule le dernier commit.     
     - git show : permet d'afficher des informations détaillées sur un commit spécifique dans un dépôt git.
-    
+
+    - git cherry-pick : Pour appliquer sélectivement des commits d'une branche a une autre (ne pas cherry pick sur la même branche) (flags :--continue pour continuer & --abort : pour annuler)
