@@ -30,4 +30,10 @@
     - git reset : annule le dernier commit.     
     - git show : permet d'afficher des informations détaillées sur un commit spécifique dans un dépôt git.
 
-    - git cherry-pick : Pour appliquer sélectivement des commits d'une branche a une autre (ne pas cherry pick sur la même branche) (flags :--continue pour continuer & --abort : pour annuler)
+    - git cherry-pick : Pour appliquer sélectivement des commits d'une branche a une autre (ne pas cherry pick sur la même branche) (flags :--continue pour continuer & --abort : pour annuler & <hash-du-commit>)
+
+    - git bisect bad : permet de marquez le commit comme mauvais.
+
+    - git bisect good <commit> : permet de marquez le dernier commit connu sans bogue pour le marquer comme bon.
+
+    - git bisect reset : sert a terminer le processus de bisectage une fois le commit fautif identifié.
