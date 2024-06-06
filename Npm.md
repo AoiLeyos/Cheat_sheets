@@ -31,3 +31,4 @@ elle contient les dependances externes donc le projet a besoin pour fonctionner,
 
 devDependancies : 
 pour définir toutes les dependance utilisés uniquement lors du développement , elle ne seront pas installer en cas d'utilisation du module et ne sont utile que pour l'étape de développement.
+
