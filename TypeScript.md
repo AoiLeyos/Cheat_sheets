@@ -1,0 +1,1 @@
+- Assurez-vous que lorsque vous lancez la commande de compilation, vous bien utilisez l'option --outDir pour spécifier le dossier de sortie souhaité (ex : tsc --outDir ./dist/)
